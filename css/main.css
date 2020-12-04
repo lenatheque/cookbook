@@ -36,7 +36,7 @@ p {
 
 header {
   height: 110px;
-  border-bottom: 3px solid blue;
+  border-bottom: 3px solid orange;
   margin: 0 auto;
 }
 
@@ -46,7 +46,7 @@ header h1 {
   padding: 38px 0;
 }
 header h1 span {
-  color: #77a466;
+  color: orange;
 }
 
 header nav {
